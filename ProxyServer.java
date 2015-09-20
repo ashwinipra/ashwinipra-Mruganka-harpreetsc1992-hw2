@@ -169,9 +169,9 @@ public class ProxyServer
         Socket sock = null;
         String buff = null;
         double ip = 0.0;
-        String kg_g_Host="127.0.0.1";//for kg<->g conversion Host
+        String kg_g_Host="128.164.94.148";//for kg<->g conversion Host
 		int kg_g_Port=6000;
-		String g_oz_Host="127.0.0.1";//for g<->oz conversion Host
+		String g_oz_Host="128.164.94.148";//for g<->oz conversion Host
 		int g_oz_Port=7000;
 		String kg_lbs_Host="54.165.253.233";//for kg<->lbs conversion Host
 		int kg_lbs_Port=22222;

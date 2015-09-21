@@ -173,7 +173,7 @@ public class ProxyServer
 		int kg_g_Port=6000;
 		String g_oz_Host="128.164.94.148";//for g<->oz conversion Host
 		int g_oz_Port=7000;
-		String kg_lbs_Host="54.165.253.233";//for kg<->lbs conversion Host
+		String kg_lbs_Host="127.0.0.1";//for kg<->lbs conversion Host
 		int kg_lbs_Port=22222;
 		String lbs_oz_Host="54.165.253.233";//for lbs<->oz conversion Host
 		int lbs_oz_Port=11111;
